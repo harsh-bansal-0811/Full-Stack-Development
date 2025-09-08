@@ -1,4 +1,5 @@
 // expressjs a framework of nodejs
+// example
 const express=require("express")
 const app=express()  // middleware 
 app.get("/",(req,res)=>{              // by default get ko use krega
